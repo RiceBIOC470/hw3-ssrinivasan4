@@ -1,3 +1,14 @@
+% GB comments
+1.	100
+2a. 70 Be careful with the use of the function showalignment. Feeding your align into the function only gives a snippet of the entire possible coding sequence and therefore outputs a artificially high percent alignment.
+2b. 70 same issue as 2a. 
+2c. 70 same issue as 2a
+3a 100
+3b. 100 
+3c. 100  	
+Overall: 87
+
+
 %HW3
 %Sanjana Srinivasan
 
